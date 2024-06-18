@@ -4,3 +4,5 @@ Forge API is a core mod that does stuff on Forge with the trick that it works li
 It's mainly used in our projects that are based on some Fabric code, even though they are on Forge, weird conception I know.
 
 This was originally designed for our gun system, but any dev can implement it into their project by going to their build.gradle and pasting in the maven source of any version.
+
+![forge_api logo](https://github.com/TheASEStefan/ForgeAPI/assets/141143764/f6e7c71d-8df1-47c6-8bfc-a942567f782f)
