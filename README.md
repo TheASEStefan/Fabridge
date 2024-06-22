@@ -5,5 +5,6 @@ It's mainly used in our projects that are based on some Fabric code, even though
 
 This was originally designed for our gun system, but any dev can implement it into their project by going to their build.gradle and pasting in the maven source of any version.
 
-![fabridge logo](https://github.com/TheASEStefan/Fabridge/assets/141143764/9b7516ec-daa3-4fc4-8419-64c2983fbbe9)
+![fabridge logo](https://github.com/TheASEStefan/Fabridge/assets/141143764/9b7516ec-daa3-4fc4-8419-64c2983fbbe9) ![discord final](https://github.com/TheASEStefan/Fabridge/assets/141143764/bbc73ef0-5d1d-4c7f-880d-56f5cc2cc778)
+
 
